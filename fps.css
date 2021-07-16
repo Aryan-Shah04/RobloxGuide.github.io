@@ -2,6 +2,9 @@
 html{
 	
 	box-sizing:border-box;
+	*, *:before, *:after{
+box-sizing: inherit;
+}
 
 }
 body{
@@ -91,8 +94,10 @@ background-color:#370617;
 
 .ropro{
 	padding:60px;
-	background:#8CFBDE;
-
+	background:#BEB9B1;
+	border-top:15px groove #4E4941;
+	border-bottom:15px ridge #4E4941;
+	color:#161412;
 }
 
 h1{
