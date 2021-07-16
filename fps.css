@@ -1,0 +1,152 @@
+
+html{
+	
+	box-sizing:border-box;
+
+}
+body{
+	
+	margin:0;
+	padding:none;
+	font-family: 'Raleway', sans-serif;
+	
+	
+}
+
+.navigation{
+	
+	background:#D00000;
+	 padding:10px;
+	
+}
+
+.introimage{
+	
+	position:relative;
+	width:100%;
+	left:0;
+	
+}
+
+.playroblox{
+	
+	position:absolute;
+	left:45%;
+	bottom:20%;
+	background:rgba(208, 0, 0, 0.9);
+	padding:20px;
+	border-radius:8px;
+}
+
+.playroblox a{
+	
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	
+}
+
+main{
+	
+	width:100%;
+	
+	
+}
+
+.favoritegames{
+	
+	background:#FFBA08;
+	padding:50px;
+}
+
+.gameimage{
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	box-shadow:0px 10px 8px rgba(0,0,0,0.2), 0px 6px 20px rgba(0,0,0,0.19);
+	text-align:center;
+	width:30%;
+	color:brown;	
+	}
+.imagetext{
+	padding:10px;
+	
+	}
+
+.playgame{
+	
+background-color:#370617;
+ color:white;
+ text-decoration:none;
+ padding:15px;
+ border-radius:4px; 
+ font-weight:bold;
+ font-size:20px;
+ box-shadow:5px 5px 5px red,-5px -5px 5px blue;
+
+	
+	
+}	
+
+
+.ropro{
+	padding:60px;
+	background:#8CFBDE;
+
+}
+
+h1{
+	font-family: 'Dancing Script', cursive;
+	font-size:50px;
+	font-weight:bold;
+	}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+	font-weight:bold;
+	font-size:40px;
+}
+	
+footer{
+	
+	 background-color:#032B43;
+	
+}
+
+.bton{
+	
+	display:inline-block;
+	position:relative;
+	height:60px;
+	width:60px;
+	left:94%;
+	top:-20px;
+	
+}
+
+.promocodes{
+	
+	text-align:center;
+	padding-top:50px;
+}
+
+.promocodes a{
+	
+	background:#D00000;
+	padding:15px;
+	border:2px;
+	border-radius:4px;
+	text-decoration:none;
+	color:yellow;
+	font-size:20px;
+}
+
+.copy{
+	
+	color:white;
+	padding-left:30px;
+	padding-bottom:50px;
+	
+	
+	
+}
