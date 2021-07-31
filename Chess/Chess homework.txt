@@ -1,0 +1,60 @@
+page 50 to 56
+1. Qc8#
+2. Qh8#
+3. Qe7#
+4.Qf7#
+5.Qb7#
+6.Qf1#
+7.Qg8#
+8.Qg2#
+9.Qg4#
+10.Qa2#
+11.Qg6#
+12.Qb7#
+13.Qg8#
+14.No
+15.Play
+16.Bd5#
+17.Qh7#
+18.Rxe5
+19.Stalemate
+20.Qh1#
+21.Rf1#
+22.Bxc6
+23.Bxf6#
+24.Bxe5
+25.Rxf7
+26.Bg2#
+27.Kh1
+28.c6
+29.Kxd5
+30.Stalemate
+31.Bxh3
+32.Kf4#
+33.Bh5#
+34.c4
+35.Kxd4
+36.Qf5
+37.f7
+38.c4
+39.d5
+40.h4
+41.Bxa1
+42.Kxf5
+43.d7
+44.e1
+45.Kf7#
+46.0-0-0
+47.e8 = queen
+48.Bxf1
+49.Rxc7
+50.Bxb7
+51.Kxe3
+52.Bxe7
+53.Bxe3
+54.Bxd7
+55.Kxf6
+56.Rxa7
+57.Bxg7
+58.Kxe5
+59.Bxd4
